@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://atipico.github.io
+title: Rogério Madureira
+tagline: Sorriso brilhante, personalidade cortante
+description: Blog de Rogério Madureira sem escopo ou limites
+paginate: 50
